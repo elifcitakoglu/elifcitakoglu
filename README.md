@@ -3,9 +3,9 @@
 
 - Hi I'm **Elif**
 
-- 🌱 I’m currently learning **java**
-
 - 📖 I'm a **physics student at Bilkent University**
+
+- 🌱 I’m currently learning **java**
 
 - 🤔 I’m looking for help with **computational physics**
 
