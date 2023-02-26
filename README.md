@@ -1,4 +1,11 @@
+<h1 align="center">Elif Çıtakoğlu</h1>
+<h3 align="center">elifcitakoglu</h3>
+
+- Hi I'm **Elif**
+
 - 🌱 I’m currently learning **java**
+
+- 📖 I'm a **physics student at Bilkent University**
 
 - 🤔 I’m looking for help with **computational physics**
 
