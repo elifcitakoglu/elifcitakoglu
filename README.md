@@ -1,5 +1,4 @@
 <h1 align="center">Elif Çıtakoğlu</h1>
-<h3 align="center">elifcitakoglu</h3>
 
 - Hi I'm **Elif**
 
